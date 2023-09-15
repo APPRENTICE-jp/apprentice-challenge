@@ -12,18 +12,18 @@ Linux の基本コマンドが使え、簡単なシェルスクリプトが書�
 
 ## Level 1
 
-- [ ] [Linux が何かを説明できる](/quest/technologies/linux/LINUX.md)
-- [ ] [Linux の環境を用意することができる](/quest/technologies/linux/ENVIRONMENT.md)
-- [ ] [ディレクトリを操作できる](/quest/technologies/linux/DIRECTORY.md)
-- [ ] [マニュアルを確認できる](/quest/technologies/linux/MAN.md)
-- [ ] [ファイルを操作できる](/quest/technologies/linux/FILE.md)
+- [ ] [Linux が何かを説明できる](/quest/linux/LINUX.md)
+- [ ] [Linux の環境を用意することができる](/quest/linux/ENVIRONMENT.md)
+- [ ] [ディレクトリを操作できる](/quest/linux/DIRECTORY.md)
+- [ ] [マニュアルを確認できる](/quest/linux/MAN.md)
+- [ ] [ファイルを操作できる](/quest/linux/FILE.md)
 
 ## Level 2
 
-- [ ] [標準入出力を扱える](/quest/technologies/linux/STANDARD.md)
-- [ ] [パーミッションを操作できる](/quest/technologies/linux/PERMISSION.md)
+- [ ] [標準入出力を扱える](/quest/linux/STANDARD.md)
+- [ ] [パーミッションを操作できる](/quest/linux/PERMISSION.md)
 
 ## Level 3
 
-- [ ] [プロセス・ジョブを管理できる](/quest/technologies/linux/PROCESS.md)
-- [ ] [シェルスクリプトを書くことができる](/quest/technologies/linux/SHELLSCRIPT.md)
+- [ ] [プロセス・ジョブを管理できる](/quest/linux/PROCESS.md)
+- [ ] [シェルスクリプトを書くことができる](/quest/linux/SHELLSCRIPT.md)
