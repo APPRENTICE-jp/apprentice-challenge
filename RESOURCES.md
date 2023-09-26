@@ -16,3 +16,17 @@
 
 - Linux の基本的なコマンドを動画で学ぶことができます
 - 「入門者のLinux」と範囲としては重複しているので、どちらか学べば OK です
+
+## Git
+
+### [もう怖くないGit！](https://www.udemy.com/course/unscared_git/)
+
+- Git/GitHub で現場必要となる内容を動画で解説しています。この動画を一通り見れば、あとは実践の中での不明点を下記公式リファレンスを参照して学べば OK です
+
+### [Pro Git](https://git-scm.com/book/ja/v2)
+
+- Git の公式リファレンスです。不明点があればこちらを参照して理解を深めましょう
+
+### [GitHub Docs](https://docs.github.com/ja/get-started/quickstart)
+
+- GitHub の公式リファレンスです。不明点があればこちらを参照して理解を深めましょう
