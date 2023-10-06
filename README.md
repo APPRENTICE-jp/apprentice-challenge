@@ -16,6 +16,7 @@ Skill Doc の内容を身につけるためにある課題が [QUEST](quest) で
 最終的には提出 QUEST を提出いただきます。
 
 ※ [推薦教材](RESOURCES.md)も参考に進めてください
+※ QUEST は提出不要です
 
 ## 期間
 
@@ -58,7 +59,7 @@ Skill Doc の内容を身につけるためにある課題が [QUEST](quest) で
    16. [[Git][Level2] GitHub フローに従って開発を進めることができる](/quest/git/PULLREQUEST.md)
 3. 提出 QUEST を提出する
    1. [パスワードマネージャー](/quest/linux/PASSWORD_MANAGER.md)
-   2. 上記のコードを GitHub 上にアップして提出する。その際に、GitHub フローに従ってプルリクエストを作成し進めること
+   2. 上記のコードを GitHub 上にアップして提出する。その際に、GitHub フローに従ってプルリクエストを作成し、都度 main ブランチにマージしながら進めること
 
 ### 2. なぜエンジニアになりたいのかの論述
 
