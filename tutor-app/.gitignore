@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+# 生成物（ビルド時に build:curriculum で再生成）
+src/lib/curriculum.generated.ts
